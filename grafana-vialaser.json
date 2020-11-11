@@ -160,5 +160,11 @@
     "name" : "Espírito Santo",
     "latitude" : -20.3155,
     "longitude" : -40.3128
-  }
+  },
+  {
+    "key" : "64",
+    "name" : "Bagé Centro",
+    "latitude" : -31.2451768,
+    "longitude" : -54.6260335
+  },
 ]
