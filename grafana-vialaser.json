@@ -1,171 +1,716 @@
 [
   {
-    "key" : "SE",
-    "name" : "Sergipe",
-    "latitude" : -10.9091,
-    "longitude" : -37.0677
+    "key": "51",
+    "name": "Araranguá | Center Shopping",
+    "address": "Avenida Sete de Setembro,Araranguá-SC",
+    "latitude": -28.9344046,
+    "longitude": -49.4851596
   },
   {
-    "key" : "PA",
-    "name" : "Pará",
-    "latitude" : -1.4554,
-    "longitude" : -48.4898
+    "key": "64",
+    "name": "Bagé | Centro",
+    "address": "Avenida Sete de Setembro, Bagé-RS",
+    "latitude": -31.333745,
+    "longitude": -54.10516029999999
   },
   {
-    "key" : "MG",
-    "name" : "Minas Gerais",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
+    "key": "4",
+    "name": "Balneário Camboriú | Balneário Shopping",
+    "address": "Avenida Santa Catarina, LJ 247,Balneário Camboriú-SC",
+    "latitude": -26.9924174,
+    "longitude": -48.64620619999999
   },
   {
-    "key" : "RR",
-    "name" : "Roraima",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
+    "key": "55",
+    "name": "Bento Gonçalves | Centro",
+    "address": "Rua Saldanha Marinho, Bento Gonçalves-RS",
+    "latitude": -29.1668117,
+    "longitude": -51.51440359999999
   },
   {
-    "key" : "DF",
-    "name" : "Distrito Federal",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "key": "5",
+    "name": "Blumenau | Neumarkt Shopping",
+    "address": "Rua 7 de Setembro, LJ 168, Blumenau-SC",
+    "latitude": -26.9240992,
+    "longitude": -49.0587981
   },
   {
-    "key" : "MS",
-    "name" : "Mato Grosso do Sul",
-    "latitude" : -20.4486,
-    "longitude" : -54.6295
+    "key": "6",
+    "name": "Blumenau | Norte Shopping",
+    "address": "Rodovia BR 470, LJ 157/158, Blumenau-SC",
+    "latitude": -26.8829682,
+    "longitude": -49.1557808
   },
   {
-    "key" : "MT",
-    "name" : "Mato Grosso",
-    "latitude" : -15.601,
-    "longitude" : -56.0974
+    "key": "58",
+    "name": "Caçador | Centro",
+    "address": "Rua Carlos Sperança, Caçador-SC",
+    "latitude": -26.7758236,
+    "longitude": -51.014147
   },
   {
-    "key" : "PR",
-    "name" : "Paraná",
-    "latitude" : -25.4195,
-    "longitude" : -49.2646
+    "key": "71",
+    "name": "Cachoeira Do Sul | Centro",
+    "address": "Rua Sete de Setembro, Cachoeira do Sul-RS",
+    "latitude": -30.0467942,
+    "longitude": -52.89282069999999
   },
   {
-    "key" : "51",
-    "name" : "Araranguá Center Shopping",
-    "latitude" : -27.5945,
-    "longitude" : -48.5477
+    "key": "65",
+    "name": "Cachoeirinha | Shopping do Vale",
+    "address": "Avenida Gen. Flores da Cunha, Cachoeirinha-RS",
+    "latitude": -29.9462177,
+    "longitude": -51.0904688
   },
   {
-    "key" : "CE",
-    "name" : "Ceará",
-    "latitude" : -3.71664,
-    "longitude" : -38.5423
+    "key": "62",
+    "name": "Cambé | Centro",
+    "address": "Rua Carlos Sawade, Sala 06, Cambé-PR",
+    "latitude": -23.2776188,
+    "longitude": -51.2689087
   },
   {
-    "key" : "GO",
-    "name" : "Goiás",
-    "latitude" : -16.6864,
-    "longitude" : -49.2643
+    "key": "83",
+    "name": "Campo Largo | Centro",
+    "address": "Rua Marechal Deodoro, Campo Largo-PR",
+    "latitude": -25.4573421,
+    "longitude": -49.5322482
   },
   {
-    "key" : "PB",
-    "name" : "Paraíba",
-    "latitude" : -7.11509,
-    "longitude" : -34.8641
+    "key": "77",
+    "name": "Campo Mourão | Centro",
+    "address": "Rua Interventor Manoel Ribas -  Edifício Copacabana sala 106, Campo Mourão-PR",
+    "latitude": -24.0389993,
+    "longitude": -52.3746978
   },
   {
-    "key" : "AP",
-    "name" : "Amapá",
-    "latitude" : 0.034934,
-    "longitude" : -51.0694
+    "key": "32",
+    "name": "Caxias do Sul | Shopping San Pellegrino",
+    "address": "Avenida Rio Branco, LJ 314,  Piso 2, Caxias do Sul-RS",
+    "latitude": -29.170754,
+    "longitude": -51.1902356
   },
   {
-    "key" : "AL",
-    "name" : "Alagoas",
-    "latitude" : -9.66599,
-    "longitude" : -35.735
+    "key": "25",
+    "name": "Central de Vendas",
+    "address": "Rua Paraguai, esquina Rua Projetada S/N, Tubarão-SC",
+    "latitude": -28.4728161,
+    "longitude": -48.9906066
   },
   {
-    "key" : "AM",
-    "name" : "Amazonas",
-    "latitude" : -3.11866,
-    "longitude" : -60.0212
+    "key": "10",
+    "name": "Chapecó | Shopping Pátio Chapecó",
+    "address": "Avenida Fernando Machado, LJ 64, Chapecó-SC",
+    "latitude": -27.0659452,
+    "longitude": -52.62935359999999
   },
   {
-    "key" : "RN",
-    "name" : "Rio Grande do Norte",
-    "latitude" : -5.79357,
-    "longitude" : -35.1986
+    "key": "76",
+    "name": "Cianorte | Centro",
+    "address": "Avenida Goiás, Cianorte-PR",
+    "latitude": -23.6579112,
+    "longitude": -52.6044393
   },
   {
-    "key" : "TO",
-    "name" : "Tocantins",
-    "latitude" : -10.24,
-    "longitude" : -48.3558
+    "key": "61",
+    "name": "Concórdia | Centro",
+    "address": "Rua da Independência, Concórdia-SC",
+    "latitude": -27.2290503,
+    "longitude": -52.0183191
   },
   {
-    "key" : "RS",
-    "name" : "Rio Grande do Sul",
-    "latitude" : -30.0318,
-    "longitude" : -51.2065
+    "key": "127",
+    "name": "Cotia | Granja Viana Mall",
+    "address": "Estrada da Aldeia, Cotia-SP",
+    "latitude": -23.5859405,
+    "longitude": -46.8259972
   },
   {
-    "key" : "RO",
-    "name" : "Rondônia",
-    "latitude" : -8.76077,
-    "longitude" : -63.8999
+    "key": "34",
+    "name": "Criciúma | Metropolitan Business Center ",
+    "address": "Rua Cel. Pedro Benedet, LJ 3, Criciúma-SC",
+    "latitude": -28.6753667,
+    "longitude": -49.3658471
   },
   {
-    "key" : "PE",
-    "name" : "Pernambuco",
-    "latitude" : -8.04666,
-    "longitude" : -34.8771
+    "key": "3",
+    "name": "Criciúma | Nações Shopping",
+    "address": "Avenida Jorge Elias de Lucca, LJ 82-Criciúma-SC",
+    "latitude": -28.68706019999999,
+    "longitude": -49.3295634
   },
   {
-    "key" : "AC",
-    "name" : "Acre",
-    "latitude" : -9.97499,
-    "longitude" : -67.8243
+    "key": "89",
+    "name": "Curitiba | Shopping Estação",
+    "address": "Avenida Sete de Setembro, Curitiba-PR",
+    "latitude": -25.4401856,
+    "longitude": -49.273565
   },
   {
-    "key" : "RJ",
-    "name" : "Rio de Janeiro",
-    "latitude" : -22.9129,
-    "longitude" : -43.2003
+    "key": "133",
+    "name": "Diadema | Shopping Praça da Moça",
+    "address": "Centro, Diadema-SP",
+    "latitude": -23.6838273,
+    "longitude": -46.6270967
   },
   {
-    "key" : "BA",
-    "name" : "Bahia",
-    "latitude" : -12.9718,
-    "longitude" : -38.5011
+    "key": "57",
+    "name": "Florianópolis | Centro",
+    "address": "Avenida Prefeito Osmar Cunha, Florianópolis-SC",
+    "latitude": -27.5929097,
+    "longitude": -48.55134409999999
   },
   {
-    "key" : "MA",
-    "name" : "Maranhão",
-    "latitude" : -2.53874,
-    "longitude" : -44.2825
+    "key": "15",
+    "name": "Florianópolis | Floripa Shopping",
+    "address": "Rodovia SC 401, LJ 118, Piso 1, Florianópolis-SC",
+    "latitude": -27.554169,
+    "longitude": -48.4984987
   },
   {
-    "key" : "125",
-    "name" : "Santos - Bauneário Santos",
-    "latitude" : -23.8638726,
-    "longitude" : -46.4303156
+    "key": "9",
+    "name": "Florianópolis | Shopping Iguatemi",
+    "address": "Avenida Madre Benvenuta, LJ 114, Piso 1, Florianópolis-SC",
+    "latitude": -27.5925509,
+    "longitude": -48.520184
   },
   {
-    "key" : "PI",
-    "name" : "Piauí",
-    "latitude" : -5.09194,
-    "longitude" : -42.8034
+    "key": "49",
+    "name": "Foz do Iguaçu | Shopping Catuaí",
+    "address": "Avenida das Cataratas, Foz do Iguaçu-PR",
+    "latitude": -25.5757233,
+    "longitude": -54.54776340000001
   },
   {
-    "key" : "ES",
-    "name" : "Espírito Santo",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "key": "54",
+    "name": "Gravataí | Centro",
+    "address": "Avenida Dorival Candido Luz de Oliveira, Gravataí-RS",
+    "latitude": -29.9358389,
+    "longitude": -51.0351733
   },
   {
-    "key" : "64",
-    "name" : "Bagé Centro",
-    "latitude" : -31.2451768,
-    "longitude" : -54.6260335
+    "key": "70",
+    "name": "Guaíba | Centro",
+    "address": "Rua Vinte de Setembro, Guaíba-RS",
+    "latitude": -30.109561,
+    "longitude": -51.3213552
+  },
+  {
+    "key": "113",
+    "name": "Guarulhos | Shopping Guarulhos",
+    "address": "Rua Engenheiro Camilo Olivetti, Guarulhos-SP",
+    "latitude": -23.48699,
+    "longitude": -46.54936
+  },
+  {
+    "key": "69",
+    "name": "Ijuí | Centro",
+    "address": "Rua XV de Novembro, Sala 2, Ijuí-RS",
+    "latitude": -28.3896631,
+    "longitude": -53.9158884
+  },
+  {
+    "key": "47",
+    "name": "Itajaí | Centro",
+    "address": "Avenida Marcos Konder, Itajaí-SC",
+    "latitude": -26.9078241,
+    "longitude": -48.6613152
+  },
+  {
+    "key": "111",
+    "name": "Itu | Plaza Shopping Itu",
+    "address": "Av. Dr. Ermelindo Maffei, Itu-SP",
+    "latitude": -23.2631502,
+    "longitude": -47.2851569
+  },
+  {
+    "key": "44",
+    "name": "Jaraguá do Sul | Centro",
+    "address": "Rua Cel. Emílio Carlos Jourdan, Jaraguá do Sul-SC",
+    "latitude": -26.4794142,
+    "longitude": -49.0841951
+  },
+  {
+    "key": "8",
+    "name": "Joinville | Garten Shopping",
+    "address": "Avenida Rolf Wiest, LJ 61,Joinville-SC",
+    "latitude": -26.2538755,
+    "longitude": -48.8521168
+  },
+  {
+    "key": "11",
+    "name": "Joinville | Müeller Shopping",
+    "address": "Rua Senador Felipe Schimidt, LJ 35, Piso 1, Joinville-SC",
+    "latitude": -26.3040413,
+    "longitude": -48.84820300000001
+  },
+  {
+    "key": "52",
+    "name": "Lages | Centro",
+    "address": "Rua Benjamin Constant, Lages-SC",
+    "latitude": -27.820949,
+    "longitude": -50.3385656
+  },
+  {
+    "key": "24",
+    "name": "Lages | Garden Shopping",
+    "address": "Rodovia BR 282, LJ 59, Lages-SC",
+    "latitude": -27.799444,
+    "longitude": -50.3604746
+  },
+  {
+    "key": "67",
+    "name": "Lajeado | Centro",
+    "address": "Avenida Benjamin Constant, Lajeado-RS",
+    "latitude": -29.4493877,
+    "longitude": -51.9991341
+  },
+  {
+    "key": "45",
+    "name": "Londrina | Centro",
+    "address": "Avenida Higienópolis, Londrina-PR",
+    "latitude": -23.3220283,
+    "longitude": -51.1671344
+  },
+  {
+    "key": "132",
+    "name": "Maranhão | Shopping Ilha",
+    "address": "Av. Daniel de La Touche, São Luís-MA",
+    "latitude": -2.5177019,
+    "longitude": -44.2469438
+  },
+  {
+    "key": "46",
+    "name": "Maringá | Park Shopping",
+    "address": "Avenida São Paulo, Maringá-PR",
+    "latitude": -23.4295428,
+    "longitude": -51.93167039999999
+  },
+  {
+    "key": "112",
+    "name": "Mogi das Cruzes | Mogi Shopping Center",
+    "address": "Av. Narciso Yague Guimarães, Mogi das Cruzes-SP",
+    "latitude": -23.5177702,
+    "longitude": -46.18053039999999
+  },
+  {
+    "key": "56",
+    "name": "Novo Hamburgo | Jardim Mauá",
+    "address": "Avenida Dr Mauricio Cardoso, Loja 3, Novo Hamburgo-RS",
+    "latitude": -29.6738421,
+    "longitude": -51.1106934
+  },
+  {
+    "key": "101",
+    "name": "Osasco | Shopping União",
+    "address": "Avenida dos Autonomistas, Osasco-SP",
+    "latitude": -23.5340383,
+    "longitude": -46.7833038
+  },
+  {
+    "key": "43",
+    "name": "Palhoça | Pedra branca",
+    "address": "Rua da Universidade, Loja 07, Palhoça-SC",
+    "latitude": -27.6226448,
+    "longitude": -48.6776825
+  },
+  {
+    "key": "78",
+    "name": "Paranavaí | Centro",
+    "address": "Rua Minas Gerais, Paranavaí-PR",
+    "latitude": -23.0819037,
+    "longitude": -52.4624294
+  },
+  {
+    "key": "79",
+    "name": "Passo Fundo | Shopping Bella Cittá",
+    "address": "Rua Cel. Chicuta, Loja 121, Passo Fundo-RS",
+    "latitude": -28.264545,
+    "longitude": -52.40768509999999
+  },
+  {
+    "key": "90",
+    "name": "Pelotas | Centro",
+    "address": "Rua XV de Novembro, Loja 2, Pelotas-RS",
+    "latitude": -31.7811439,
+    "longitude": -52.3467123
+  },
+  {
+    "key": "63",
+    "name": "Ponta Grossa | Palladium Shopping",
+    "address": "Rua Ermelino de Leão, Ponta Grossa-PR",
+    "latitude": -25.1006776,
+    "longitude": -50.1555421
+  },
+  {
+    "key": "75",
+    "name": "Porto Alegre | Centro",
+    "address": "Rua dos Andradas, Porto Alegre-RS",
+    "latitude": -30.03066,
+    "longitude": -51.2318906
+  },
+  {
+    "key": "143",
+    "name": "Rio de Janeiro | Ilha Plaza Shopping",
+    "address": "AV. MAESTRO PAULO E SILVA, Rio de Janeiro-RJ",
+    "latitude": -22.801925,
+    "longitude": -43.2024185
+  },
+  {
+    "key": "135",
+    "name": "Rio de Janeiro | Norte Shopping",
+    "address": "Av. DOM HELDER CAMARA, Rio de Janeiro-RJ",
+    "latitude": -22.8874999,
+    "longitude": -43.2848835
+  },
+  {
+    "key": "144",
+    "name": "Rio de Janeiro | Shopping Botafogo Praia",
+    "address": "Praia de Botafogo, Rio de Janeiro-RJ",
+    "latitude": -22.9454948,
+    "longitude": -43.1821807
+  },
+  {
+    "key": "138",
+    "name": "Rio de Janeiro | Shopping Plaza Niteroi",
+    "address": "Rua Quinze de Novembro, Rio de Janeiro-RJ",
+    "latitude": -22.8727625,
+    "longitude": -43.4909969
+  },
+  {
+    "key": "136",
+    "name": "Rio de Janeiro | Shopping Tijuca",
+    "address": "Tijuca, Rio de Janeiro-RJ",
+    "latitude": -22.9325728,
+    "longitude": -43.2410248
+  },
+  {
+    "key": "60",
+    "name": "Rio do Sul | Centro",
+    "address": "Rua Anita Garibaldi, Rio do Sul-SC",
+    "latitude": -27.216913,
+    "longitude": -49.6457755
+  },
+  {
+    "key": "22",
+    "name": "Santa Maria | Shopping Praça Nova",
+    "address": "Rodovia BR 287, LJ 1055, Santa Maria-RS",
+    "latitude": -29.6980396,
+    "longitude": -53.8452372
+  },
+  {
+    "key": "141",
+    "name": "Santo Andre | Grand Plaza",
+    "address": "Santo André, Santo André-SP",
+    "latitude": -23.6742228,
+    "longitude": -46.5436003
+  },
+  {
+    "key": "142",
+    "name": "Santo André | Shopping ABC",
+    "address": "Santo André, Santo André-SP",
+    "latitude": -23.6742228,
+    "longitude": -46.5436003
+  },
+  {
+    "key": "125",
+    "name": "Santos | Shopping Balneário",
+    "address": "Av. Ana Costa, Santos-SP",
+    "latitude": -23.9564116,
+    "longitude": -46.3316107
+  },
+  {
+    "key": "102",
+    "name": "São Bernardo do Campo | Extra Anchieta",
+    "address": "Rua Garcia Lorca, São Bernardo do Campo-SP",
+    "latitude": -23.6709717,
+    "longitude": -46.5730666
+  },
+  {
+    "key": "145",
+    "name": "São Bernardo do Campo | Shopping Metrópole",
+    "address": "Praça Samuel Sabatini, São Bernardo do Campo-SP",
+    "latitude": -23.6945175,
+    "longitude": -46.5516048
+  },
+  {
+    "key": "7",
+    "name": "São José | Continente Shopping",
+    "address": "Rodovia BR 101 - KM 210 - Esquina Rod. SC 281, Sala L157, São José-SC",
+    "latitude": -27.6151933,
+    "longitude": -48.6450436
+  },
+  {
+    "key": "48",
+    "name": "São José | Kobrasol ",
+    "address": "Avenida Presidente Kennedy, São José-SC",
+    "latitude": -27.6009643,
+    "longitude": -48.61187049999999
+  },
+  {
+    "key": "134",
+    "name": "São José dos Campo | Shopping Colinas",
+    "address": "Av. São João, São José dos Campos-SP",
+    "latitude": -23.2013102,
+    "longitude": -45.9024177
+  },
+  {
+    "key": "81",
+    "name": "São José Dos Pinhais | Centro",
+    "address": "Rua Tenente Djalma Dutra - Loja B, São José dos Pinhais-PR",
+    "latitude": -25.5438759,
+    "longitude": -49.2017442
+  },
+  {
+    "key": "59",
+    "name": "São Leopoldo | Centro",
+    "address": "Rua São Caetano, São Leopoldo-RS",
+    "latitude": -29.7702934,
+    "longitude": -51.1484313
+  },
+  {
+    "key": "115",
+    "name": "São Luís | Shopping Golden Calhau",
+    "address": "Av.dos Holandeses, São Luís-MA",
+    "latitude": -2.4893232,
+    "longitude": -44.2505517
+  },
+  {
+    "key": "122",
+    "name": "São Luís | Shopping Rio Anil",
+    "address": "Av. São Luis Rei De Franca, São Luís-MA",
+    "latitude": -2.5134314,
+    "longitude": -44.2256885
+  },
+  {
+    "key": "114",
+    "name": "São Luís | Shopping São Luís",
+    "address": "Av. Professor Carlos Cunha, São Luís-MA",
+    "latitude": -2.5067858,
+    "longitude": -44.2822461
+  },
+  {
+    "key": "82",
+    "name": "São Paulo |  GPA Teodoro Sampaio",
+    "address": "Rua Teodoro Sampaio, São Paulo-SP",
+    "latitude": -23.5610994,
+    "longitude": -46.6834123
+  },
+  {
+    "key": "99",
+    "name": "São Paulo | Brooklin",
+    "address": "Av. Padre Antônio José dos Santos, São Paulo-SP",
+    "latitude": -23.6103371,
+    "longitude": -46.6865679
+  },
+  {
+    "key": "87",
+    "name": "São Paulo | GPA Casa Verde",
+    "address": "Rua Bernardino Fanganiello, São Paulo-SP",
+    "latitude": -23.5130814,
+    "longitude": -46.6594783
+  },
+  {
+    "key": "93",
+    "name": "São Paulo | Lapa",
+    "address": "Praça Civica, São Paulo-SP",
+    "latitude": -23.5278082,
+    "longitude": -46.7037264
+  },
+  {
+    "key": "117",
+    "name": "São Paulo | Mais Shopping",
+    "address": "Rua Amador Bueno, São Paulo-SP",
+    "latitude": -23.6527622,
+    "longitude": -46.7124
+  },
+  {
+    "key": "92",
+    "name": "São Paulo | São Judas",
+    "address": "Avenida Fagundes Filho, Loja 04, Térreo, São Paulo-SP",
+    "latitude": -23.6264505,
+    "longitude": -46.6407608
+  },
+  {
+    "key": "100",
+    "name": "São Paulo | Shopping Aricanduva",
+    "address": "Avenida Aricanduva, São Paulo-SP",
+    "latitude": -23.5666554,
+    "longitude": -46.5072078
+  },
+  {
+    "key": "84",
+    "name": "São Paulo | Shopping Center Fiesta",
+    "address": "Av Guarapiranga, 752 – Loja 48/50, São Paulo-SP",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "key": "140",
+    "name": "São Paulo | Shopping Cidade São Paulo",
+    "address": "Rua Amador Bueno, São Paulo-SP",
+    "latitude": -23.6527622,
+    "longitude": -46.7124
+  },
+  {
+    "key": "105",
+    "name": "São Paulo | Shopping D",
+    "address": "Avenida Cruzeiro do Sul, São Paulo-SP",
+    "latitude": -23.515457,
+    "longitude": -46.6252582
+  },
+  {
+    "key": "124",
+    "name": "São Paulo | Shopping Frei Caneca",
+    "address": "Rua Frei Caneca, São Paulo-SP",
+    "latitude": -23.5543001,
+    "longitude": -46.65426679999999
+  },
+  {
+    "key": "104",
+    "name": "São Paulo | Shopping Interlagos",
+    "address": "Av. Interlagos, São Paulo-SP",
+    "latitude": -23.6828019,
+    "longitude": -46.6904171
+  },
+  {
+    "key": "86",
+    "name": "São Paulo | Shopping Metrô Itaquera",
+    "address": "Estrada da Pedreira, s/n – Sala nº 302, São Paulo-SP",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "key": "118",
+    "name": "São Paulo | Shopping Metrô Santa Cruz",
+    "address": "Rua Domingos de Morais, São Paulo-SP",
+    "latitude": -23.5920041,
+    "longitude": -46.6365035
+  },
+  {
+    "key": "80",
+    "name": "São Paulo | Shopping Metrô Tatuapé",
+    "address": "Rua Domingos Agostim, São Paulo-SP",
+    "latitude": -23.5421248,
+    "longitude": -46.5761046
+  },
+  {
+    "key": "126",
+    "name": "São Paulo | Shopping Morumbi",
+    "address": "Avenida Roque Petroni Júnior, São Paulo-SP",
+    "latitude": -23.6242558,
+    "longitude": -46.694804
+  },
+  {
+    "key": "103",
+    "name": "São Paulo | Shopping Penha",
+    "address": "Rua Dr João Ribeiro, São Paulo-SP",
+    "latitude": -23.5242601,
+    "longitude": -46.5474678
+  },
+  {
+    "key": "146",
+    "name": "São Paulo | Shopping Plaza Sul",
+    "address": "Praça Leonor Kaupa, São Paulo-SP",
+    "latitude": -23.6199797,
+    "longitude": -46.6275527
+  },
+  {
+    "key": "85",
+    "name": "São Paulo | Shopping SP Market",
+    "address": "Avenida das Nações Unidas, Loja S2 - N10, São Paulo-SP",
+    "latitude": -23.6077583,
+    "longitude": -46.6973162
+  },
+  {
+    "key": "110",
+    "name": "São Paulo | Tietê Plaza Shopping",
+    "address": "Av. Raimundo Pereira de Magalhaes, São Paulo-SP",
+    "latitude": -23.4607664,
+    "longitude": -46.7215808
+  },
+  {
+    "key": "88",
+    "name": "São Paulo | Vila Olímpia",
+    "address": "Rua Gomes de Carvalho, São Paulo-SP",
+    "latitude": -23.5981865,
+    "longitude": -46.6829037
+  },
+  {
+    "key": "74",
+    "name": "Sarandi | Centro",
+    "address": "Rua Guiapó, Sarandi-PR",
+    "latitude": -23.4430413,
+    "longitude": -51.8715592
+  },
+  {
+    "key": "42",
+    "name": "Tubarão | Farol Shopping",
+    "address": "Avenida Marcolino Martins Cabral, LJ 93, Tubarão-SC",
+    "latitude": -28.4848088,
+    "longitude": -49.0166636
+  },
+  {
+    "key": "98",
+    "name": "Umuarama | Shopping Palladium",
+    "address": "Avenida Paraná nº 8455,  L096, Umuarama-PR",
+    "latitude": -23.7622072,
+    "longitude": -53.3124058
+  },
+  {
+    "key": "66",
+    "name": "Uruguaiana | Centro",
+    "address": "Rua Domingos de Almeida, Uruguaiana-RS",
+    "latitude": -29.7625015,
+    "longitude": -57.0847257
+  },
+  {
+    "key": "40",
+    "name": "Vialaser  | Unidade Ecommerce",
+    "address": "Av. Jorge Elias de Lucca, LJ 82, Criciúma-SC",
+    "latitude": -28.68706019999999,
+    "longitude": -49.3295634
+  },
+  {
+    "key": "37",
+    "name": "Vialaser - Unidade Bourbon Country",
+    "address": "Avenida Túlio de Rose, Porto Alegre-RS",
+    "latitude": -30.0227115,
+    "longitude": -51.1587964
+  },
+  {
+    "key": "39",
+    "name": "Vialaser - Unidade Canoas",
+    "address": "Avenida Farroupilha, Canoas-RS",
+    "latitude": -29.8970358,
+    "longitude": -51.1674026
+  },
+  {
+    "key": "13",
+    "name": "Vialaser - Unidade POA Barra Sul",
+    "address": "Avenida Diário de Noticias, LJ 1046, Porto Alegre-RS",
+    "latitude": -30.0952859,
+    "longitude": -51.2501452
+  },
+  {
+    "key": "53",
+    "name": "Vialaser - Unidade ViaPrime",
+    "address": "Av. Jorge Elias de Lucca, LJ 82, Criciúma-SC",
+    "latitude": -28.68706019999999,
+    "longitude": -49.3295634
+  },
+  {
+    "key": "41",
+    "name": "Vialaser | Unidade App",
+    "address": "Av. Jorge Elias de Lucca, LJ 82, Criciúma-SC",
+    "latitude": -28.68706019999999,
+    "longitude": -49.3295634
+  },
+  {
+    "key": "119",
+    "name": "Vialaser | Unidade Via Truck",
+    "address": "Av. Jorge Elias de Lucca, LJ 82, Criciúma-SC",
+    "latitude": -28.68706019999999,
+    "longitude": -49.3295634
   }
- ]
-
+]
