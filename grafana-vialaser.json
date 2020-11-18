@@ -712,5 +712,12 @@
     "address": "Av. Jorge Elias de Lucca, LJ 82, Criciúma-SC",
     "latitude": -28.68706019999999,
     "longitude": -49.3295634
+  },
+  {
+    "key": "104",
+    "name": "Vialaser | São Paulo Shopping Interlagos",
+    "address": "Av. Interlagos, N 2255, São Paulo",
+    "latitude": -23.40343,
+    "longitude": -46.40418
   }
 ]
